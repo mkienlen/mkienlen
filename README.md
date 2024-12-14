@@ -2,16 +2,18 @@
 
 ### 🎓 Sophmore at UC Santa Cruz Studying Applied Mathematics and Computer Science
 
-### 🔭 Aspiring Data Scientist and Machine Learning and Sustainability Enthusiast
+### 🔭 Aspiring Data Scientist and Machine Learning Enthusiast
 
-I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is key to growth. (Ask me about growing my technical skills and leadership as a Break Through Tech FellowLinks to an external site.!) Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
+I recently earned a Machine Learning Foundations certification from Cornell Tech, which I am actively using as an AI Studio Fellow at Automation Anywhere. My current work focuses on developing an object detection model to identify elements like signatures and stamps in documents, showcasing my interest in bridging cutting-edge technology with real-world challenges.
+
+Beyond my academic and professional pursuits, I am deeply curious about how AI and Machine Learning can transform fields like childhood education, and I am eager to explore impactful solutions in this space.
 
 ## 🎯 Featured Project: Signature Detection Using Computer Vision for Automation Anywhere
 **What We Did:** Preprocessed and combined annotation files for over 2000 images, created Detectron2 and Yolov8 models to locate signatures, created Streamlit application for users to test out both models and locate signatures with any image.  <br />
 **Tools:** Python, PyTorch, Detectron2, Yolov8  <br />
 **Applications:** VSCode, Jupyter Notebooks, Google Colab, Streamlit  <br />
 **Results:** 81% accuracy for Detectron2, both models able to detect lack of signatures  <br />
-**Curious?** See the full project repo in my pinned.  <br />
+**Curious?** See the full project [here](https://github.com/savannahgong/Automation-Anywhere-1A) 
 
 ## 🛠 Tech Stack:
 **Languages:** Python, Java, C++  <br />
@@ -21,10 +23,9 @@ I love tackling real-world problems through data analysis and predictive modelin
 ## 🚀 Projects:
 A few other noteworthy projects I’ve worked on:  <br />  <br />
 
-MovieHub - Personalized Movie Recommender  <br />
-Links to an external site.Developed a recommendation engine using collaborative filtering to suggest movies based on user preferences.  <br />
-Tech Stack: Python, Flask, Scikit-learn  <br />
-Learnings: Building recommendation systems and deploying applications  <br />
+**Income Predictor:** [income-predictor](https://github.com/mkienlen/income-predictor) <br />
+Predicts whether an individual's income is over/under $50k based on public U.S. census data  <br />
+Tech Stack: Python, Pandas, Sklearn, TensorFlow, Imbalanced Learn  <br />
 
 ## 📫 How to Reach Me:
 **Email:** makaylakienlen@gmail.com  <br />
